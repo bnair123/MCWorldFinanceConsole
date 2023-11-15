@@ -1,0 +1,66 @@
+{
+  "old": {
+    "population": 1700,
+    "gdp": 100445157,
+    "stock_market_value": 106974093,
+    "tax_brackets": [
+      {
+        "min": 500,
+        "rate": 0.05
+      },
+      {
+        "min": 5978.17,
+        "rate": 0.1
+      },
+      {
+        "min": 20000,
+        "rate": 0.2
+      }
+    ],
+    "citizen_income": {
+      "low": 500,
+      "median": 5978.17,
+      "high": 20000
+    },
+    "citizen_income_brackets": {
+      "low": 500,
+      "median": 5978.17,
+      "high": 20000,
+      "low_count": 500,
+      "median_count": 850,
+      "high_count": 350
+    },
+    "company_income": 10,
+    "number_of_companies": 765,
+    "swf_value": 4126412.66,
+    "dividend_rate": 0.03,
+    "loans": [
+      {
+        "name": "Infrastructure Loan",
+        "amount": 52500000,
+        "interest_rate": 0.01,
+        "term": 120,
+        "payments_made": 0
+      }
+    ],
+    "allocated_funds": 0,
+    "savings_rate": 0.8,
+    "currency_value": 1.0404,
+    "electricity_kwh_per_citizen": 220,
+    "electricity_export_price_per_kwh": 0.008,
+    "oil_export_revenue": 4876875,
+    "personnel_costs": {
+      "police": 50,
+      "firefighters": 25,
+      "doctors": 30,
+      "military": 35
+    },
+    "personnel_salary": 800,
+    "infrastructure_costs": 250000,
+    "healthcare_costs_per_person": 250,
+    "rnd_exploration_costs": 100000,
+    "administrative_costs": 30000
+  },
+  "new": {
+  }
+}
